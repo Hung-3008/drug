@@ -1,0 +1,5462 @@
+[
+  {
+    "data": {
+      "ocr": "http://localhost:8080/1.jpg"
+    },
+    "predictions": [
+      {
+        "result": [
+          {
+            "id": "06cf3fb1-4",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 48.936287477954146,
+              "y": 88.4765625,
+              "width": 39.290192350088184,
+              "height": 4.8828125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "06cf3fb1-4",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "SỞ Y TẾ BÌNH THUẬN"
+              ],
+              "x": 48.936287477954146,
+              "y": 88.4765625,
+              "width": 39.290192350088184,
+              "height": 4.8828125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "91c5d6ee-2",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 47.995205026455025,
+              "y": 84.1796875,
+              "width": 34.11423886684303,
+              "height": 3.7109375,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "91c5d6ee-2",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "TRUNG TÂM Y TẾ TP PHAN THIẾT"
+              ],
+              "x": 47.995205026455025,
+              "y": 84.1796875,
+              "width": 34.11423886684303,
+              "height": 3.7109375,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "d13d7058-7",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 64.69941854056438,
+              "y": 79.296875,
+              "width": 21.409625771604937,
+              "height": 3.3203125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "d13d7058-7",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "PHÒNG KHÁM MẮT"
+              ],
+              "x": 64.69941854056438,
+              "y": 79.296875,
+              "width": 21.409625771604937,
+              "height": 3.3203125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "ced754b3-e",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 11.292989417989418,
+              "y": 77.5390625,
+              "width": 33.643697641093475,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "ced754b3-e",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "ĐƠN THUỐC"
+              ],
+              "x": 11.292989417989418,
+              "y": 77.5390625,
+              "width": 33.643697641093475,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "52c77d9f-c",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 61.170359347442684,
+              "y": 76.5625,
+              "width": 27.997202932098766,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "52c77d9f-c",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Tuổi:64"
+              ],
+              "x": 61.170359347442684,
+              "y": 76.5625,
+              "width": 27.997202932098766,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "80fe91fa-c",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 58.817653218694886,
+              "y": 73.6328125,
+              "width": 32.467344576719576,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "80fe91fa-c",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Giới tính: Nữ"
+              ],
+              "x": 58.817653218694886,
+              "y": 73.6328125,
+              "width": 32.467344576719576,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "1003ecb9-3",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 4.705412257495591,
+              "y": 71.09375,
+              "width": 34.584780092592595,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "1003ecb9-3",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Họ tên: nguyễn thị mùng"
+              ],
+              "x": 4.705412257495591,
+              "y": 71.09375,
+              "width": 34.584780092592595,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "df6a3816-3",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 4.705412257495591,
+              "y": 68.1640625,
+              "width": 18.115837191358025,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "df6a3816-3",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Địa chỉ: KP 2 - Bình Hưng - Phan Thiết - Bình Thuận"
+              ],
+              "x": 4.705412257495591,
+              "y": 68.1640625,
+              "width": 18.115837191358025,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "f6327545-2",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 10.82244819223986,
+              "y": 64.6484375,
+              "width": 48.2304756393298,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "f6327545-2",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Ngày hết hạn: 31/12/2017"
+              ],
+              "x": 10.82244819223986,
+              "y": 64.6484375,
+              "width": 48.2304756393298,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "cb3399bc-c",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 8.705012676366843,
+              "y": 61.71875,
+              "width": 17.880566578483243,
+              "height": 2.5390625,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "cb3399bc-c",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Số thẻ bảo hiểm y tế: GD4600190104020 ? 60040"
+              ],
+              "x": 8.705012676366843,
+              "y": 61.71875,
+              "width": 17.880566578483243,
+              "height": 2.5390625,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "165bb018-9",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 89.16756227954144,
+              "y": 60.3515625,
+              "width": 9.64609512786596,
+              "height": 2.5390625,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "165bb018-9",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Viêm kết mạc, không xác định [H10.9] (MP: VKM/2M: IOL"
+              ],
+              "x": 89.16756227954144,
+              "y": 60.3515625,
+              "width": 9.64609512786596,
+              "height": 2.5390625,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "ea5b4ea3-a",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 10.587177579365079,
+              "y": 58.3984375,
+              "width": 59.52346505731922,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "ea5b4ea3-a",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Chẩn đoán:"
+              ],
+              "x": 10.587177579365079,
+              "y": 58.3984375,
+              "width": 59.52346505731922,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "1c155d0b-3",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 7.999200837742505,
+              "y": 55.46875,
+              "width": 30.585179673721342,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "1c155d0b-3",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "+ Khô mắt); Chảy nước mắt [H04.2]; Sự có mặt của thấu kính"
+              ],
+              "x": 7.999200837742505,
+              "y": 55.46875,
+              "width": 30.585179673721342,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "17e01e53-5",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 91.04972718253968,
+              "y": 54.1015625,
+              "width": 7.763930224867725,
+              "height": 2.734375,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "17e01e53-5",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "nội nhãn [Z96.1];"
+              ],
+              "x": 91.04972718253968,
+              "y": 54.1015625,
+              "width": 7.763930224867725,
+              "height": 2.734375,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "cc919dbe-1",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 10.351906966490299,
+              "y": 52.34375,
+              "width": 59.52346505731922,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "cc919dbe-1",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Thuốc điều trị:"
+              ],
+              "x": 10.351906966490299,
+              "y": 52.34375,
+              "width": 59.52346505731922,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "7ee0ff84-3",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 8.234471450617283,
+              "y": 49.21875,
+              "width": 38.58438051146384,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "7ee0ff84-3",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "01 Lọ"
+              ],
+              "x": 8.234471450617283,
+              "y": 49.21875,
+              "width": 38.58438051146384,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "9ca93951-5",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 90.8144565696649,
+              "y": 47.4609375,
+              "width": 7.999200837742505,
+              "height": 3.3203125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "9ca93951-5",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "1/Levofloxacin 5mg/ml (Melevo)"
+              ],
+              "x": 90.8144565696649,
+              "y": 47.4609375,
+              "width": 7.999200837742505,
+              "height": 3.3203125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "3d105c56-0",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 4.705412257495591,
+              "y": 44.921875,
+              "width": 18.586378417107582,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "3d105c56-0",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "cách dùng: Nhỏ mắt phải ngày 5 lần 1 giọt."
+              ],
+              "x": 4.705412257495591,
+              "y": 44.921875,
+              "width": 18.586378417107582,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "4302bb6d-b",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 22.350708223104057,
+              "y": 41.796875,
+              "width": 20.703813932980598,
+              "height": 2.734375,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "4302bb6d-b",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "01 Lọ"
+              ],
+              "x": 22.350708223104057,
+              "y": 41.796875,
+              "width": 20.703813932980598,
+              "height": 2.734375,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "b8fd98ea-d",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 22.350708223104057,
+              "y": 38.671875,
+              "width": 69.64010141093475,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "b8fd98ea-d",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "2/Systane Ultra Drop 5ml"
+              ],
+              "x": 22.350708223104057,
+              "y": 38.671875,
+              "width": 69.64010141093475,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "fc971f2f-9",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 4.470141644620811,
+              "y": 36.5234375,
+              "width": 13.645695546737214,
+              "height": 2.734375,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "fc971f2f-9",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "cách dùng: Nhỏ mắt phải ngày 5 lần 1 giọt."
+              ],
+              "x": 4.470141644620811,
+              "y": 36.5234375,
+              "width": 13.645695546737214,
+              "height": 2.734375,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "76ddc234-c",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 22.350708223104057,
+              "y": 35.9375,
+              "width": 69.40483079805996,
+              "height": 2.9296875,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "76ddc234-c",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "20 Viên"
+              ],
+              "x": 22.350708223104057,
+              "y": 35.9375,
+              "width": 69.40483079805996,
+              "height": 2.9296875,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "d08c4f76-9",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 4.234871031746032,
+              "y": 33.59375,
+              "width": 56.70021770282187,
+              "height": 2.9296875,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "d08c4f76-9",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "13/Vitamin A-D"
+              ],
+              "x": 4.234871031746032,
+              "y": 33.59375,
+              "width": 56.70021770282187,
+              "height": 2.9296875,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "f05b5786-d",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 66.34631283068784,
+              "y": 32.03125,
+              "width": 30.11463844797178,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "f05b5786-d",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "ngày Uống 02 Viên; 01; Chiều: 01:"
+              ],
+              "x": 66.34631283068784,
+              "y": 32.03125,
+              "width": 30.11463844797178,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "3d9fa95e-f",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 4.234871031746032,
+              "y": 30.46875,
+              "width": 60.22927689594356,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "3d9fa95e-f",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Cộng khoản: 3"
+              ],
+              "x": 4.234871031746032,
+              "y": 30.46875,
+              "width": 60.22927689594356,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "657e0a74-a",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 4.234871031746032,
+              "y": 27.34375,
+              "width": 36.937486221340386,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "657e0a74-a",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Lời dăn: Dùng thuốc theo toa"
+              ],
+              "x": 4.234871031746032,
+              "y": 27.34375,
+              "width": 36.937486221340386,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "00ea5e76-b",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 78.58038470017637,
+              "y": 25.0,
+              "width": 15.292589836860671,
+              "height": 2.5390625,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "00ea5e76-b",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Ngày 12 tháng 12 năm 2017"
+              ],
+              "x": 78.58038470017637,
+              "y": 25.0,
+              "width": 15.292589836860671,
+              "height": 2.5390625,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "d4645d4c-0",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 62.1114417989418,
+              "y": 25.0,
+              "width": 9.175553902116402,
+              "height": 2.734375,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "d4645d4c-0",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Bác sĩ/ Y sĩ khám bệnh"
+              ],
+              "x": 62.1114417989418,
+              "y": 25.0,
+              "width": 9.175553902116402,
+              "height": 2.734375,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "6a2a35e7-1",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 38.81965112433863,
+              "y": 22.4609375,
+              "width": 21.880166997354497,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "6a2a35e7-1",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "XÁC NHẬN BỆNH NHÂN"
+              ],
+              "x": 38.81965112433863,
+              "y": 22.4609375,
+              "width": 21.880166997354497,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "58743ebc-7",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 23.291790674603174,
+              "y": 19.7265625,
+              "width": 23.762331900352734,
+              "height": 2.734375,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "58743ebc-7",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "(Kỷ, ghi rõ họ tên)"
+              ],
+              "x": 23.291790674603174,
+              "y": 19.7265625,
+              "width": 23.762331900352734,
+              "height": 2.734375,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "b9192195-d",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 13.645695546737214,
+              "y": 16.2109375,
+              "width": 42.81925154320987,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "b9192195-d",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "TRUNG TÂM Y TẾ TP. PHAN THIẾT"
+              ],
+              "x": 13.645695546737214,
+              "y": 16.2109375,
+              "width": 42.81925154320987,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "b59c03c5-1",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 21.64489638447972,
+              "y": 12.890625,
+              "width": 26.58557925485009,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "b59c03c5-1",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "KHOA KHÁM BỆNN LIÊN"
+              ],
+              "x": 21.64489638447972,
+              "y": 12.890625,
+              "width": 26.58557925485009,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          }
+        ],
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "data": {
+      "ocr": "http://localhost:8080/2.jpg"
+    },
+    "predictions": [
+      {
+        "result": [
+          {
+            "id": "e438daf7-b",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 46.54116527504912,
+              "y": 92.578125,
+              "width": 38.66496807465619,
+              "height": 5.078125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "e438daf7-b",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "SỞ Y TẾ BÌNH THUẬN"
+              ],
+              "x": 46.54116527504912,
+              "y": 92.578125,
+              "width": 38.66496807465619,
+              "height": 5.078125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "e396b5d3-a",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 46.54116527504912,
+              "y": 88.28125,
+              "width": 31.50478880157171,
+              "height": 3.7109375,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "e396b5d3-a",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "TRUNG TÂM Y TẾ TP PHAN THIẾT"
+              ],
+              "x": 46.54116527504912,
+              "y": 88.28125,
+              "width": 31.50478880157171,
+              "height": 3.7109375,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "8efa2705-f",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 62.53223231827112,
+              "y": 85.15625,
+              "width": 20.52584724950884,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "8efa2705-f",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "PHÒNG KHÁM MẤT"
+              ],
+              "x": 62.53223231827112,
+              "y": 85.15625,
+              "width": 20.52584724950884,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "c7c31c7f-5",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 14.797703831041257,
+              "y": 83.7890625,
+              "width": 30.55009823182711,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "c7c31c7f-5",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "ĐƠN THUỐC"
+              ],
+              "x": 14.797703831041257,
+              "y": 83.7890625,
+              "width": 30.55009823182711,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "4e432c1c-1",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 59.66816060903733,
+              "y": 82.6171875,
+              "width": 26.492663310412574,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "4e432c1c-1",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Giới tính: Nam"
+              ],
+              "x": 59.66816060903733,
+              "y": 82.6171875,
+              "width": 26.492663310412574,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "12a318df-0",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 57.75877946954813,
+              "y": 79.8828125,
+              "width": 30.55009823182711,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "12a318df-0",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Tuối:39"
+              ],
+              "x": 57.75877946954813,
+              "y": 79.8828125,
+              "width": 30.55009823182711,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "4ce3b422-9",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 8.830887770137524,
+              "y": 78.7109375,
+              "width": 30.55009823182711,
+              "height": 2.5390625,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "4ce3b422-9",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Họ tên: ĐẶNG VĂN ANH TUẤN"
+              ],
+              "x": 8.830887770137524,
+              "y": 78.7109375,
+              "width": 30.55009823182711,
+              "height": 2.5390625,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "56b7f439-8",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 8.592215127701376,
+              "y": 75.9765625,
+              "width": 15.991067043222005,
+              "height": 2.734375,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "56b7f439-8",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Địa chi: KP 7 - Đức Nghĩa - Phan Thiết"
+              ],
+              "x": 8.592215127701376,
+              "y": 75.9765625,
+              "width": 15.991067043222005,
+              "height": 2.734375,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "7a90fade-6",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 13.60434061886051,
+              "y": 72.65625,
+              "width": 44.39311149312377,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "7a90fade-6",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Ngày hết hạn: 19/09/2018"
+              ],
+              "x": 13.60434061886051,
+              "y": 72.65625,
+              "width": 44.39311149312377,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "95288db7-a",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 10.978941552062869,
+              "y": 69.921875,
+              "width": 38.66496807465619,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "95288db7-a",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Số thẻ bảo hiểm y tế: GD4600191302397 - 60040"
+              ],
+              "x": 10.978941552062869,
+              "y": 69.921875,
+              "width": 38.66496807465619,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "a17a4718-3",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 86.6381692043222,
+              "y": 68.359375,
+              "width": 9.069560412573674,
+              "height": 2.734375,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "a17a4718-3",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Chần đoán: Chắp [H00.1] (MP: Cưấi);"
+              ],
+              "x": 86.6381692043222,
+              "y": 68.359375,
+              "width": 9.069560412573674,
+              "height": 2.734375,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "17b14bf9-7",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 13.126995333988212,
+              "y": 67.1875,
+              "width": 44.87045677799607,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "17b14bf9-7",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Thuốc điều trị:"
+              ],
+              "x": 13.126995333988212,
+              "y": 67.1875,
+              "width": 44.87045677799607,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "8c65c404-1",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 10.50159626719057,
+              "y": 64.453125,
+              "width": 41.05169449901768,
+              "height": 2.9296875,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "8c65c404-1",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "01 Lọ"
+              ],
+              "x": 10.50159626719057,
+              "y": 64.453125,
+              "width": 41.05169449901768,
+              "height": 2.9296875,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "dd2cde3d-9",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 86.6381692043222,
+              "y": 62.6953125,
+              "width": 9.069560412573674,
+              "height": 2.734375,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "dd2cde3d-9",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "1/Dicortineff"
+              ],
+              "x": 86.6381692043222,
+              "y": 62.6953125,
+              "width": 9.069560412573674,
+              "height": 2.734375,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "2275e5ac-3",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 12.410977406679764,
+              "y": 61.5234375,
+              "width": 45.58647470530452,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "2275e5ac-3",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "cách dùng: Nhỏ mắt Phải ngày 5 lần, tần i giọt"
+              ],
+              "x": 12.410977406679764,
+              "y": 61.5234375,
+              "width": 45.58647470530452,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "c90939bf-3",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 10.26292362475442,
+              "y": 58.984375,
+              "width": 17.900448182711198,
+              "height": 2.5390625,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "c90939bf-3",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "01 Lọ"
+              ],
+              "x": 10.26292362475442,
+              "y": 58.984375,
+              "width": 17.900448182711198,
+              "height": 2.5390625,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "86f1be16-5",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 86.87684184675835,
+              "y": 56.8359375,
+              "width": 9.069560412573674,
+              "height": 2.734375,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "86f1be16-5",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "2/Natri clorid 0,9%"
+              ],
+              "x": 86.87684184675835,
+              "y": 56.8359375,
+              "width": 9.069560412573674,
+              "height": 2.734375,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "aa9f70c6-3",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 11.694959479371317,
+              "y": 55.859375,
+              "width": 55.84939833005894,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "aa9f70c6-3",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "cách dùng: Rửa mắt Phải ngày 4 tần, lần 2 - 4 giọt"
+              ],
+              "x": 11.694959479371317,
+              "y": 55.859375,
+              "width": 55.84939833005894,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "e15f6fb3-f",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 9.308233055009824,
+              "y": 53.125,
+              "width": 21.957883104125738,
+              "height": 2.9296875,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "e15f6fb3-f",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "10 Viên"
+              ],
+              "x": 9.308233055009824,
+              "y": 53.125,
+              "width": 21.957883104125738,
+              "height": 2.9296875,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "8429a7ff-5",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 89.0248956286837,
+              "y": 51.171875,
+              "width": 7.398851915520629,
+              "height": 2.734375,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "8429a7ff-5",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "3/Auclanityl Ig"
+              ],
+              "x": 89.0248956286837,
+              "y": 51.171875,
+              "width": 7.398851915520629,
+              "height": 2.734375,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "fdcee372-1",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 11.217614194499017,
+              "y": 50.0,
+              "width": 52.50798133595285,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "fdcee372-1",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "ngày Uống 02 Viên; Sáng: 01: Chiều: 01;"
+              ],
+              "x": 11.217614194499017,
+              "y": 50.0,
+              "width": 52.50798133595285,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "8aad7b83-7",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 8.592215127701376,
+              "y": 47.0703125,
+              "width": 15.752394400785855,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "8aad7b83-7",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "15 Viên"
+              ],
+              "x": 8.592215127701376,
+              "y": 47.0703125,
+              "width": 15.752394400785855,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "dec47f55-9",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 89.0248956286837,
+              "y": 44.921875,
+              "width": 7.8761972003929275,
+              "height": 3.3203125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "dec47f55-9",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "4/Methyl prednisolon 4mg (Menison)"
+              ],
+              "x": 89.0248956286837,
+              "y": 44.921875,
+              "width": 7.8761972003929275,
+              "height": 3.3203125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "90f53ca2-6",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 5.012125491159136,
+              "y": 42.578125,
+              "width": 18.139120825147348,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "90f53ca2-6",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "ngày Uống 03 Viên; Sảng: 02: Chiều: 01;"
+              ],
+              "x": 5.012125491159136,
+              "y": 42.578125,
+              "width": 18.139120825147348,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "3c2a8812-e",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 4.057434921414538,
+              "y": 38.28125,
+              "width": 57.52010682711198,
+              "height": 2.9296875,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "3c2a8812-e",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "10 Viên"
+              ],
+              "x": 4.057434921414538,
+              "y": 38.28125,
+              "width": 57.52010682711198,
+              "height": 2.9296875,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "4c7e40d4-2",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 3.58008963654224,
+              "y": 35.15625,
+              "width": 56.08807097249509,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "4c7e40d4-2",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "5/Paracetamol 650mg (Mypara ER)"
+              ],
+              "x": 3.58008963654224,
+              "y": 35.15625,
+              "width": 56.08807097249509,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "2cb5b059-b",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 65.63497666994107,
+              "y": 33.59375,
+              "width": 29.595407662082515,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "2cb5b059-b",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "ngày Uống 02 Viên; Sáng: 01: Chiều: 01:"
+              ],
+              "x": 65.63497666994107,
+              "y": 33.59375,
+              "width": 29.595407662082515,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "10ada1ea-9",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 3.3414169941060905,
+              "y": 31.8359375,
+              "width": 45.10912942043222,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "10ada1ea-9",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Cộng khoản: 5"
+              ],
+              "x": 3.3414169941060905,
+              "y": 31.8359375,
+              "width": 45.10912942043222,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "2e660b5d-a",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 3.102744351669941,
+              "y": 28.3203125,
+              "width": 40.335676571709236,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "2e660b5d-a",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Lời đãn: Dùng thuốc theo toa"
+              ],
+              "x": 3.102744351669941,
+              "y": 28.3203125,
+              "width": 40.335676571709236,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "431281a1-c",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 61.33886910609037,
+              "y": 25.9765625,
+              "width": 9.308233055009824,
+              "height": 2.734375,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "431281a1-c",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Ngày 11 tháng 12 năm 2017"
+              ],
+              "x": 61.33886910609037,
+              "y": 25.9765625,
+              "width": 9.308233055009824,
+              "height": 2.734375,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "88d7cc8a-8",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 77.80728143418467,
+              "y": 25.390625,
+              "width": 17.66177554027505,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "88d7cc8a-8",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Bác sy Y sĩ khám bệnh"
+              ],
+              "x": 77.80728143418467,
+              "y": 25.390625,
+              "width": 17.66177554027505,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "b85f1e44-e",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 37.94895014734774,
+              "y": 23.2421875,
+              "width": 21.957883104125738,
+              "height": 3.3203125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "b85f1e44-e",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "XÁC NHẬN BỆNH NHÂN"
+              ],
+              "x": 37.94895014734774,
+              "y": 23.2421875,
+              "width": 21.957883104125738,
+              "height": 3.3203125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "965731c9-5",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 21.24186517681729,
+              "y": 20.1171875,
+              "width": 25.29930009823183,
+              "height": 2.9296875,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "965731c9-5",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "(Ký, ghi rõ họ tên)"
+              ],
+              "x": 21.24186517681729,
+              "y": 20.1171875,
+              "width": 25.29930009823183,
+              "height": 2.9296875,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "6fc8a2dc-5",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 11.694959479371317,
+              "y": 16.2109375,
+              "width": 43.915766208251476,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "6fc8a2dc-5",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "TRONG THUY TẾ PPHAN THẾ TH"
+              ],
+              "x": 11.694959479371317,
+              "y": 16.2109375,
+              "width": 43.915766208251476,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "65fcb611-5",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 20.048501964636543,
+              "y": 12.6953125,
+              "width": 26.970008595284874,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "65fcb611-5",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "KHOA KHÁM BỆNH LIÊN"
+              ],
+              "x": 20.048501964636543,
+              "y": 12.6953125,
+              "width": 26.970008595284874,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          }
+        ],
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "data": {
+      "ocr": "http://localhost:8080/3.jpg"
+    },
+    "predictions": [
+      {
+        "result": [
+          {
+            "id": "3cc42747-0",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 39.426977687626774,
+              "y": 95.8984375,
+              "width": 42.63041962474645,
+              "height": 3.7109375,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "3cc42747-0",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "NONNANNANCENTALLY"
+              ],
+              "x": 39.426977687626774,
+              "y": 95.8984375,
+              "width": 42.63041962474645,
+              "height": 3.7109375,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "b4b5d79f-c",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 39.18055907707911,
+              "y": 92.3828125,
+              "width": 29.323814655172413,
+              "height": 3.7109375,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "b4b5d79f-c",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "SƠ Y TẾ BÌNH THUẬN"
+              ],
+              "x": 39.18055907707911,
+              "y": 92.3828125,
+              "width": 29.323814655172413,
+              "height": 3.7109375,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "e7ddd88f-3",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 58.8940479208925,
+              "y": 89.2578125,
+              "width": 18.234977180527384,
+              "height": 1.953125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "e7ddd88f-3",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "TRUNG TÂM Y TÊ TP PHAN THIẾT"
+              ],
+              "x": 58.8940479208925,
+              "y": 89.2578125,
+              "width": 18.234977180527384,
+              "height": 1.953125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "3a208fb4-c",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 13.553023580121703,
+              "y": 87.3046875,
+              "width": 28.091721602434077,
+              "height": 2.9296875,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "3a208fb4-c",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "PHÒNG KHÁM SÓ 3"
+              ],
+              "x": 13.553023580121703,
+              "y": 87.3046875,
+              "width": 28.091721602434077,
+              "height": 2.9296875,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "62e89c2b-1",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 55.69060598377282,
+              "y": 86.5234375,
+              "width": 24.1490238336714,
+              "height": 2.5390625,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "62e89c2b-1",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "ĐƠN THUÓC"
+              ],
+              "x": 55.69060598377282,
+              "y": 86.5234375,
+              "width": 24.1490238336714,
+              "height": 2.5390625,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "aecc453e-9",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 53.719257099391484,
+              "y": 84.1796875,
+              "width": 28.091721602434077,
+              "height": 2.5390625,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "aecc453e-9",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Giới tính: Nữ"
+              ],
+              "x": 53.719257099391484,
+              "y": 84.1796875,
+              "width": 28.091721602434077,
+              "height": 2.5390625,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "338ab48a-a",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 7.638976926977688,
+              "y": 82.421875,
+              "width": 29.077396044624745,
+              "height": 2.5390625,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "338ab48a-a",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Tuổi:53"
+              ],
+              "x": 7.638976926977688,
+              "y": 82.421875,
+              "width": 29.077396044624745,
+              "height": 2.5390625,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "68fc1a52-8",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 7.39255831643002,
+              "y": 80.078125,
+              "width": 15.77079107505071,
+              "height": 2.5390625,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "68fc1a52-8",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Họ tên: nguyễn thị sương"
+              ],
+              "x": 7.39255831643002,
+              "y": 80.078125,
+              "width": 15.77079107505071,
+              "height": 2.5390625,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "0d951f1b-5",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 12.320930527383368,
+              "y": 76.953125,
+              "width": 41.891163793103445,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "0d951f1b-5",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Địa chỉ: HGĐ Thôn Phú Nhang, Xã Hàm Hiệp, Huyện Hàm Hiệp,"
+              ],
+              "x": 12.320930527383368,
+              "y": 76.953125,
+              "width": 41.891163793103445,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "03c5a059-a",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 10.103163032454361,
+              "y": 74.8046875,
+              "width": 38.687721855983774,
+              "height": 2.5390625,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "03c5a059-a",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Huyện Hàm Thuận Bắc, Tỉnh Bình Thuận"
+              ],
+              "x": 10.103163032454361,
+              "y": 74.8046875,
+              "width": 38.687721855983774,
+              "height": 2.5390625,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "2a6d527f-d",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 80.08604842799188,
+              "y": 73.6328125,
+              "width": 9.117488590263692,
+              "height": 2.734375,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "2a6d527f-d",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Ngày hết hạn: 30/11/2018"
+              ],
+              "x": 80.08604842799188,
+              "y": 73.6328125,
+              "width": 9.117488590263692,
+              "height": 2.734375,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "7c379a79-6",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 11.828093306288032,
+              "y": 72.0703125,
+              "width": 41.891163793103445,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "7c379a79-6",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Số thẻ bảo hiểm y tế: GD4606020754595 - 60040"
+              ],
+              "x": 11.828093306288032,
+              "y": 72.0703125,
+              "width": 41.891163793103445,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "f301f272-2",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 9.36390720081136,
+              "y": 69.921875,
+              "width": 33.26651242393509,
+              "height": 2.5390625,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "f301f272-2",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Bệnh đải tháo đường không phụ thuộc insuline [E11]; Cơn"
+              ],
+              "x": 9.36390720081136,
+              "y": 69.921875,
+              "width": 33.26651242393509,
+              "height": 2.5390625,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "eb18aab6-6",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 79.10037398580121,
+              "y": 69.140625,
+              "width": 10.349581643002029,
+              "height": 2.5390625,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "eb18aab6-6",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Chân đoán:"
+              ],
+              "x": 79.10037398580121,
+              "y": 69.140625,
+              "width": 10.349581643002029,
+              "height": 2.5390625,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "583c8c51-d",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 11.335256085192698,
+              "y": 67.1875,
+              "width": 42.63041962474645,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "583c8c51-d",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "thiếu máu não cục bộ thoáng qua và hội chứng liên quan"
+              ],
+              "x": 11.335256085192698,
+              "y": 67.1875,
+              "width": 42.63041962474645,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "8ddde523-5",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 9.117488590263692,
+              "y": 65.0390625,
+              "width": 34.00576825557809,
+              "height": 2.5390625,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "8ddde523-5",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "[G45]: Bệnh tim thiếu máu cục bộ mạn [125]; Rối loạn chuyển"
+              ],
+              "x": 9.117488590263692,
+              "y": 65.0390625,
+              "width": 34.00576825557809,
+              "height": 2.5390625,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "4e39f1ce-1",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 80.33246703853955,
+              "y": 64.2578125,
+              "width": 9.36390720081136,
+              "height": 2.5390625,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "4e39f1ce-1",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "hoà acid béo [E71.3]"
+              ],
+              "x": 80.33246703853955,
+              "y": 64.2578125,
+              "width": 9.36390720081136,
+              "height": 2.5390625,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "9ec0ef58-e",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 10.842418864097363,
+              "y": 62.3046875,
+              "width": 42.38400101419878,
+              "height": 2.734375,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "9ec0ef58-e",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Thuốc điều trị:"
+              ],
+              "x": 10.842418864097363,
+              "y": 62.3046875,
+              "width": 42.38400101419878,
+              "height": 2.734375,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "9519106f-d",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 8.624651369168356,
+              "y": 59.765625,
+              "width": 26.859628549695742,
+              "height": 2.5390625,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "9519106f-d",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "120 Viên"
+              ],
+              "x": 8.624651369168356,
+              "y": 59.765625,
+              "width": 26.859628549695742,
+              "height": 2.5390625,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "b3214805-a",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 80.57888564908723,
+              "y": 58.984375,
+              "width": 9.36390720081136,
+              "height": 2.5390625,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "b3214805-a",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "1/Gliclazid 30mg (Glisan MR)"
+              ],
+              "x": 80.57888564908723,
+              "y": 58.984375,
+              "width": 9.36390720081136,
+              "height": 2.5390625,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "cbed3bff-f",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 10.103163032454361,
+              "y": 57.03125,
+              "width": 44.60176850912779,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "cbed3bff-f",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "ngày Uống 04 Viên; Sáng: 02; Chiều: 02;"
+              ],
+              "x": 10.103163032454361,
+              "y": 57.03125,
+              "width": 44.60176850912779,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "5e1cfb07-a",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 7.638976926977688,
+              "y": 54.6875,
+              "width": 41.151907961460445,
+              "height": 2.5390625,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "5e1cfb07-a",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "30 Viên"
+              ],
+              "x": 7.638976926977688,
+              "y": 54.6875,
+              "width": 41.151907961460445,
+              "height": 2.5390625,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "0fe8b9aa-a",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 81.07172287018255,
+              "y": 53.7109375,
+              "width": 9.117488590263692,
+              "height": 2.5390625,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "0fe8b9aa-a",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "2/Bisoprolol 2,5mg (Cardicomekophar)"
+              ],
+              "x": 81.07172287018255,
+              "y": 53.7109375,
+              "width": 9.117488590263692,
+              "height": 2.5390625,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "82139ec3-c",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 9.610325811359026,
+              "y": 51.7578125,
+              "width": 43.61609406693712,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "82139ec3-c",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "ngày Uống 01 Viên; Sảng: 0.5: Chiếu: 0.5:"
+              ],
+              "x": 9.610325811359026,
+              "y": 51.7578125,
+              "width": 43.61609406693712,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "f8d5a01b-4",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 7.39255831643002,
+              "y": 49.21875,
+              "width": 32.28083798174442,
+              "height": 2.5390625,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "f8d5a01b-4",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "20 Viên"
+              ],
+              "x": 7.39255831643002,
+              "y": 49.21875,
+              "width": 32.28083798174442,
+              "height": 2.5390625,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "d5460493-7",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 80.33246703853955,
+              "y": 48.2421875,
+              "width": 10.349581643002029,
+              "height": 2.734375,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "d5460493-7",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "3/Hoạt Huyết Đưỡng Não"
+              ],
+              "x": 80.33246703853955,
+              "y": 48.2421875,
+              "width": 10.349581643002029,
+              "height": 2.734375,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "98ee2cba-8",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 3.2034419371196754,
+              "y": 45.5078125,
+              "width": 17.249302738336713,
+              "height": 2.5390625,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "98ee2cba-8",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "ngày Uống 02 Viên: Sáng: 01: Chiều: 01"
+              ],
+              "x": 3.2034419371196754,
+              "y": 45.5078125,
+              "width": 17.249302738336713,
+              "height": 2.5390625,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "ab34478e-f",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 19.713488843813387,
+              "y": 42.578125,
+              "width": 23.16334939148073,
+              "height": 2.5390625,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "ab34478e-f",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "20 Viên"
+              ],
+              "x": 19.713488843813387,
+              "y": 42.578125,
+              "width": 23.16334939148073,
+              "height": 2.5390625,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "9d913b63-9",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 18.974233012170384,
+              "y": 39.6484375,
+              "width": 66.77944345841784,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "9d913b63-9",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "4/Acetyl leucin 500mg (Gikanin)"
+              ],
+              "x": 18.974233012170384,
+              "y": 39.6484375,
+              "width": 66.77944345841784,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "6b3839c3-c",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 18.72781440162272,
+              "y": 37.109375,
+              "width": 61.1118154158215,
+              "height": 2.9296875,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "6b3839c3-c",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "ngày Uống 02 Viên; Sáng: 01: Chiều: 01:"
+              ],
+              "x": 18.72781440162272,
+              "y": 37.109375,
+              "width": 61.1118154158215,
+              "height": 2.9296875,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "03afecd8-d",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 2.217767494929006,
+              "y": 34.9609375,
+              "width": 12.567349137931034,
+              "height": 1.953125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "03afecd8-d",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "120 Viên"
+              ],
+              "x": 2.217767494929006,
+              "y": 34.9609375,
+              "width": 12.567349137931034,
+              "height": 1.953125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "891bbc45-4",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 18.234977180527384,
+              "y": 34.1796875,
+              "width": 64.06883874239351,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "891bbc45-4",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "S/Metformin 500mg (Glucofast)"
+              ],
+              "x": 18.234977180527384,
+              "y": 34.1796875,
+              "width": 64.06883874239351,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "da772381-b",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 1.478511663286004,
+              "y": 32.03125,
+              "width": 54.21209432048681,
+              "height": 2.5390625,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "da772381-b",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "ngày Uống 04 Viên; Sảng: 02: Chiều: 02:"
+              ],
+              "x": 1.478511663286004,
+              "y": 32.03125,
+              "width": 54.21209432048681,
+              "height": 2.5390625,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "7cda813a-0",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 60.86539680527383,
+              "y": 30.859375,
+              "width": 29.323814655172413,
+              "height": 2.5390625,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "7cda813a-0",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "60 Viên"
+              ],
+              "x": 60.86539680527383,
+              "y": 30.859375,
+              "width": 29.323814655172413,
+              "height": 2.5390625,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "e4d57abd-d",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 1.478511663286004,
+              "y": 29.4921875,
+              "width": 45.58744295131846,
+              "height": 2.5390625,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "e4d57abd-d",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "6/Fenofibrat 160mg (Hafenthyl Supra)"
+              ],
+              "x": 1.478511663286004,
+              "y": 29.4921875,
+              "width": 45.58744295131846,
+              "height": 2.5390625,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "1bf4dcad-c",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 0.9856744421906694,
+              "y": 26.7578125,
+              "width": 81.07172287018255,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "1bf4dcad-c",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "ngày Uống 02 Viên; Sảng: 01: Chiều: 01:"
+              ],
+              "x": 0.9856744421906694,
+              "y": 26.7578125,
+              "width": 81.07172287018255,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "34109741-b",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 0.9856744421906694,
+              "y": 23.828125,
+              "width": 36.71637297160243,
+              "height": 2.734375,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "34109741-b",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Cộng khoản: 6"
+              ],
+              "x": 0.9856744421906694,
+              "y": 23.828125,
+              "width": 36.71637297160243,
+              "height": 2.734375,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "714e7e35-a",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 56.67628042596349,
+              "y": 22.0703125,
+              "width": 9.36390720081136,
+              "height": 2.5390625,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "714e7e35-a",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Lời dân: Dùng thuốc theo toa"
+              ],
+              "x": 56.67628042596349,
+              "y": 22.0703125,
+              "width": 9.36390720081136,
+              "height": 2.5390625,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "5d4f6da7-a",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 72.69349011156187,
+              "y": 21.6796875,
+              "width": 15.524372464503042,
+              "height": 2.5390625,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "5d4f6da7-a",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Ngày 11 tháng 12 năm 2017"
+              ],
+              "x": 72.69349011156187,
+              "y": 21.6796875,
+              "width": 15.524372464503042,
+              "height": 2.5390625,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "747353e7-b",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 34.00576825557809,
+              "y": 19.53125,
+              "width": 21.438419117647058,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "747353e7-b",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Bắc sự Y sĩ khám bệnh"
+              ],
+              "x": 34.00576825557809,
+              "y": 19.53125,
+              "width": 21.438419117647058,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "99adc4e6-8",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 18.974233012170384,
+              "y": 16.796875,
+              "width": 23.409768002028397,
+              "height": 2.5390625,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "99adc4e6-8",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "XÁC NHẬN BỆNH NHÂN"
+              ],
+              "x": 18.974233012170384,
+              "y": 16.796875,
+              "width": 23.409768002028397,
+              "height": 2.5390625,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "69b9cfe1-8",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 10.103163032454361,
+              "y": 13.671875,
+              "width": 41.398326572008116,
+              "height": 2.5390625,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "69b9cfe1-8",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "(Kỳ. ghi rõ họ tên)"
+              ],
+              "x": 10.103163032454361,
+              "y": 13.671875,
+              "width": 41.398326572008116,
+              "height": 2.5390625,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "cd91ddac-a",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 61.8510712474645,
+              "y": 10.7421875,
+              "width": 22.17767494929006,
+              "height": 3.7109375,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "cd91ddac-a",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "TRUNG TAMYTE PPHANTHER"
+              ],
+              "x": 61.8510712474645,
+              "y": 10.7421875,
+              "width": 22.17767494929006,
+              "height": 3.7109375,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "36bbef1e-9",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 17.988558569979716,
+              "y": 11.328125,
+              "width": 25.627535496957403,
+              "height": 2.34375,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "36bbef1e-9",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "KHOA KHÁP TIẾN THỊ QUỐC HÒA"
+              ],
+              "x": 17.988558569979716,
+              "y": 11.328125,
+              "width": 25.627535496957403,
+              "height": 2.34375,
+              "rotation": 0
+            },
+            "score": 0
+          }
+        ],
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "data": {
+      "ocr": "http://localhost:8080/4.jpg"
+    },
+    "predictions": [
+      {
+        "result": [
+          {
+            "id": "049359e6-0",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 43.80568658280922,
+              "y": 79.1015625,
+              "width": 47.11658149895178,
+              "height": 4.296875,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "049359e6-0",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "SỞ Y TẾ BÌNH THUẬN"
+              ],
+              "x": 43.80568658280922,
+              "y": 79.1015625,
+              "width": 47.11658149895178,
+              "height": 4.296875,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "96598071-f",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 43.551002358490564,
+              "y": 74.8046875,
+              "width": 32.85426493710692,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "96598071-f",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "TRUNG TÂM Y TẾ TP PHAN THIẾT"
+              ],
+              "x": 43.551002358490564,
+              "y": 74.8046875,
+              "width": 32.85426493710692,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "5c9642e0-d",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 63.671056079664574,
+              "y": 70.1171875,
+              "width": 21.393474842767297,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "5c9642e0-d",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "PHÔNG KHÁM SỐ 3"
+              ],
+              "x": 63.671056079664574,
+              "y": 70.1171875,
+              "width": 21.393474842767297,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "43fc52ff-1",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 12.224842767295597,
+              "y": 68.9453125,
+              "width": 32.3448964884696,
+              "height": 2.9296875,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "43fc52ff-1",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "ĐƠN THUỐC"
+              ],
+              "x": 12.224842767295597,
+              "y": 68.9453125,
+              "width": 32.3448964884696,
+              "height": 2.9296875,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "22830c28-e",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 60.360161163522015,
+              "y": 67.3828125,
+              "width": 27.76058045073375,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "22830c28-e",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Giới tính: Nữ"
+              ],
+              "x": 60.360161163522015,
+              "y": 67.3828125,
+              "width": 27.76058045073375,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "bf31cbb9-c",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 57.558634696016775,
+              "y": 64.84375,
+              "width": 32.3448964884696,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "bf31cbb9-c",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Tuổi:35"
+              ],
+              "x": 57.558634696016775,
+              "y": 64.84375,
+              "width": 32.3448964884696,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "8fbd3d39-c",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 5.603052935010482,
+              "y": 63.28125,
+              "width": 33.618317610062896,
+              "height": 2.9296875,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "8fbd3d39-c",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Họ tên: nguyên thị thu hà"
+              ],
+              "x": 5.603052935010482,
+              "y": 63.28125,
+              "width": 33.618317610062896,
+              "height": 2.9296875,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "a81bf9a2-5",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 5.85773715932914,
+              "y": 60.9375,
+              "width": 17.318527253668762,
+              "height": 2.734375,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "a81bf9a2-5",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Địa chỉ: HGĐ BĐ Thôn 5, Xã Hàm Liêm, Huyện Hàm Thuận Bắc, Tỉnh Bình"
+              ],
+              "x": 5.85773715932914,
+              "y": 60.9375,
+              "width": 17.318527253668762,
+              "height": 2.734375,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "c2465e4a-7",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 11.460790094339623,
+              "y": 57.421875,
+              "width": 46.60721305031446,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "c2465e4a-7",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Thuận"
+              ],
+              "x": 11.460790094339623,
+              "y": 57.421875,
+              "width": 46.60721305031446,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "f427eb3e-b",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 8.659263626834381,
+              "y": 54.6875,
+              "width": 28.01526467505241,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "f427eb3e-b",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Ngày hết hạn: 09/10/2018"
+              ],
+              "x": 8.659263626834381,
+              "y": 54.6875,
+              "width": 28.01526467505241,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "3a45a2fd-5",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 87.3566889412998,
+              "y": 52.5390625,
+              "width": 9.932684748427674,
+              "height": 2.734375,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "3a45a2fd-5",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Số thể bào hiểm y tế: GD4606020607232 - 60040"
+              ],
+              "x": 87.3566889412998,
+              "y": 52.5390625,
+              "width": 9.932684748427674,
+              "height": 2.734375,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "2926a38c-b",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 11.206105870020965,
+              "y": 51.7578125,
+              "width": 45.843160377358494,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "2926a38c-b",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Viêm dạ dảy và tá tràng [K29]"
+              ],
+              "x": 11.206105870020965,
+              "y": 51.7578125,
+              "width": 45.843160377358494,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "28788025-2",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 8.404579402515724,
+              "y": 49.4140625,
+              "width": 11.97015854297694,
+              "height": 2.734375,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "28788025-2",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Chắn đoán:"
+              ],
+              "x": 8.404579402515724,
+              "y": 49.4140625,
+              "width": 11.97015854297694,
+              "height": 2.734375,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "427b9fdb-e",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 88.37542583857443,
+              "y": 47.0703125,
+              "width": 8.659263626834381,
+              "height": 2.5390625,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "427b9fdb-e",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Thuốc điều trị:"
+              ],
+              "x": 88.37542583857443,
+              "y": 47.0703125,
+              "width": 8.659263626834381,
+              "height": 2.5390625,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "2bd4f41a-7",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 10.696737421383649,
+              "y": 46.2890625,
+              "width": 46.86189727463312,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "2bd4f41a-7",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "20 Viên"
+              ],
+              "x": 10.696737421383649,
+              "y": 46.2890625,
+              "width": 46.86189727463312,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "d2938d22-3",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 8.404579402515724,
+              "y": 43.75,
+              "width": 18.846632599580712,
+              "height": 2.5390625,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "d2938d22-3",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "1/Rabeprazol 20mg (Atproton)"
+              ],
+              "x": 8.404579402515724,
+              "y": 43.75,
+              "width": 18.846632599580712,
+              "height": 2.5390625,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "b65c40bf-8",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 86.84732049266248,
+              "y": 41.6015625,
+              "width": 9.678000524109015,
+              "height": 2.5390625,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "b65c40bf-8",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "ngày Uống 02 Viên; Sáng: 01: Chiều: 01;"
+              ],
+              "x": 86.84732049266248,
+              "y": 41.6015625,
+              "width": 9.678000524109015,
+              "height": 2.5390625,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "905ca7ba-f",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 10.696737421383649,
+              "y": 40.8203125,
+              "width": 46.60721305031446,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "905ca7ba-f",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "20 Viên"
+              ],
+              "x": 10.696737421383649,
+              "y": 40.8203125,
+              "width": 46.60721305031446,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "c6e4453d-1",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 8.404579402515724,
+              "y": 37.890625,
+              "width": 34.637054507337524,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "c6e4453d-1",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "2/ENTERPASS"
+              ],
+              "x": 8.404579402515724,
+              "y": 37.890625,
+              "width": 34.637054507337524,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "1e32b45c-d",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 86.59263626834381,
+              "y": 36.1328125,
+              "width": 9.678000524109015,
+              "height": 2.5390625,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "1e32b45c-d",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "ngày Uống 02 Viên: Sáng: 01: Chiều: 01;"
+              ],
+              "x": 86.59263626834381,
+              "y": 36.1328125,
+              "width": 9.678000524109015,
+              "height": 2.5390625,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "be862eae-4",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 4.584316037735849,
+              "y": 33.984375,
+              "width": 18.08257992662474,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "be862eae-4",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "20 Gói"
+              ],
+              "x": 4.584316037735849,
+              "y": 33.984375,
+              "width": 18.08257992662474,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "488265c4-0",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 4.584316037735849,
+              "y": 30.46875,
+              "width": 13.49826388888889,
+              "height": 2.5390625,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "488265c4-0",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "3/Vilanta"
+              ],
+              "x": 4.584316037735849,
+              "y": 30.46875,
+              "width": 13.49826388888889,
+              "height": 2.5390625,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "dd297702-8",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 21.393474842767297,
+              "y": 29.8828125,
+              "width": 35.14642295597484,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "dd297702-8",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "ngày Uống 02 Gỏi; Sáng: 01: Chiếu: 01:"
+              ],
+              "x": 21.393474842767297,
+              "y": 29.8828125,
+              "width": 35.14642295597484,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "1f4d2bd1-2",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 4.0749475890985325,
+              "y": 27.5390625,
+              "width": 55.011792452830186,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "1f4d2bd1-2",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "28 Viên"
+              ],
+              "x": 4.0749475890985325,
+              "y": 27.5390625,
+              "width": 55.011792452830186,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "a894e6e7-5",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 64.94447720125787,
+              "y": 26.171875,
+              "width": 28.779317348008387,
+              "height": 2.5390625,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "a894e6e7-5",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "4/Mật Ông Nghệ-MEDI"
+              ],
+              "x": 64.94447720125787,
+              "y": 26.171875,
+              "width": 28.779317348008387,
+              "height": 2.5390625,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "a6b58cdf-b",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 4.839000262054507,
+              "y": 25.78125,
+              "width": 7.895210953878407,
+              "height": 2.5390625,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "a6b58cdf-b",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "ngày Uống 04 Viên; Sảng: 02: Chiều: 02:"
+              ],
+              "x": 4.839000262054507,
+              "y": 25.78125,
+              "width": 7.895210953878407,
+              "height": 2.5390625,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "eb87585b-0",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 4.0749475890985325,
+              "y": 23.046875,
+              "width": 84.8098466981132,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "eb87585b-0",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Cộng khoản: 4"
+              ],
+              "x": 4.0749475890985325,
+              "y": 23.046875,
+              "width": 84.8098466981132,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "04b79f33-0",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 4.3296318134171905,
+              "y": 20.3125,
+              "width": 37.693265199161424,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "04b79f33-0",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Lời dẫn: Đùng thuốc theo toa"
+              ],
+              "x": 4.3296318134171905,
+              "y": 20.3125,
+              "width": 37.693265199161424,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "83d55961-b",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 60.105476939203356,
+              "y": 17.96875,
+              "width": 9.678000524109015,
+              "height": 2.5390625,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "83d55961-b",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Ngày 12 tháng 12 năm 2017"
+              ],
+              "x": 60.105476939203356,
+              "y": 17.96875,
+              "width": 9.678000524109015,
+              "height": 2.5390625,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "769a2b14-4",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 75.89589884696016,
+              "y": 17.7734375,
+              "width": 15.790421907756814,
+              "height": 2.734375,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "769a2b14-4",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Bác sl/ Y sĩ khám bệnh"
+              ],
+              "x": 75.89589884696016,
+              "y": 17.7734375,
+              "width": 15.790421907756814,
+              "height": 2.734375,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "87e86205-1",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 37.438580974842765,
+              "y": 15.8203125,
+              "width": 21.648159067085953,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "87e86205-1",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "XÁC NHẬN BỆNH NHÂN"
+              ],
+              "x": 37.438580974842765,
+              "y": 15.8203125,
+              "width": 21.648159067085953,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "3f44022a-9",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 22.41221174004193,
+              "y": 13.4765625,
+              "width": 23.176264412997902,
+              "height": 2.5390625,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "3f44022a-9",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "(Ký, ghi rõ họ tên)"
+              ],
+              "x": 22.41221174004193,
+              "y": 13.4765625,
+              "width": 23.176264412997902,
+              "height": 2.5390625,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "9cc80371-0",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 12.734211215932914,
+              "y": 10.3515625,
+              "width": 42.02289701257862,
+              "height": 2.9296875,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "9cc80371-0",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "TRUNG Y MY TY PHAN THIẾT NHIẾT"
+              ],
+              "x": 12.734211215932914,
+              "y": 10.3515625,
+              "width": 42.02289701257862,
+              "height": 2.9296875,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "054e0993-9",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 20.62942216981132,
+              "y": 7.2265625,
+              "width": 25.723106656184488,
+              "height": 2.734375,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "054e0993-9",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "KHOA KHÁC BỘNG THỊ QUỐC HÒA"
+              ],
+              "x": 20.62942216981132,
+              "y": 7.2265625,
+              "width": 25.723106656184488,
+              "height": 2.734375,
+              "rotation": 0
+            },
+            "score": 0
+          }
+        ],
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "data": {
+      "ocr": "http://localhost:8080/5.jpg"
+    },
+    "predictions": [
+      {
+        "result": [
+          {
+            "id": "483e6b7f-c",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 46.290514637546465,
+              "y": 90.8203125,
+              "width": 40.193715148698885,
+              "height": 4.4921875,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "483e6b7f-c",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "SỞ Y TẾ BÌNH THUẬN"
+              ],
+              "x": 46.290514637546465,
+              "y": 90.8203125,
+              "width": 40.193715148698885,
+              "height": 4.4921875,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "de10746c-f",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 45.61309247211896,
+              "y": 85.546875,
+              "width": 33.645300882899626,
+              "height": 3.90625,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "de10746c-f",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "TRUNG TÂM Y TẾ TP PHAN THIẾT"
+              ],
+              "x": 45.61309247211896,
+              "y": 85.546875,
+              "width": 33.645300882899626,
+              "height": 3.90625,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "c9521211-9",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 63.45187616171004,
+              "y": 81.4453125,
+              "width": 21.225894516728623,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "c9521211-9",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "PHÔNG KHÁM MÁT"
+              ],
+              "x": 63.45187616171004,
+              "y": 81.4453125,
+              "width": 21.225894516728623,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "41a8cdab-9",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 10.83875464684015,
+              "y": 79.296875,
+              "width": 32.96787871747212,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "41a8cdab-9",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "ĐƠN THUÓC"
+              ],
+              "x": 10.83875464684015,
+              "y": 79.296875,
+              "width": 32.96787871747212,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "9cd3b659-4",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 60.06476533457249,
+              "y": 78.515625,
+              "width": 27.548501394052046,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "9cd3b659-4",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Tuổi:48"
+              ],
+              "x": 60.06476533457249,
+              "y": 78.515625,
+              "width": 27.548501394052046,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "8b759040-e",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 57.806691449814124,
+              "y": 75.390625,
+              "width": 31.6130343866171,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "8b759040-e",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Giới tinh: Nam"
+              ],
+              "x": 57.806691449814124,
+              "y": 75.390625,
+              "width": 31.6130343866171,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "5a862fc1-4",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 4.516147769516729,
+              "y": 72.65625,
+              "width": 33.87110827137546,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "5a862fc1-4",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Họ tên: nguyên văn lộc"
+              ],
+              "x": 4.516147769516729,
+              "y": 72.65625,
+              "width": 33.87110827137546,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "9aead0ad-f",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 4.967762546468402,
+              "y": 69.921875,
+              "width": 17.161361524163567,
+              "height": 2.5390625,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "9aead0ad-f",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Địa chỉ: KP 4 - Đức Long - Phan Thiết"
+              ],
+              "x": 4.967762546468402,
+              "y": 69.921875,
+              "width": 17.161361524163567,
+              "height": 2.5390625,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "a4e023a8-9",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 10.16133248141264,
+              "y": 66.2109375,
+              "width": 33.193686105947954,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "a4e023a8-9",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Ngày hết hạn: 19/07/2018"
+              ],
+              "x": 10.16133248141264,
+              "y": 66.2109375,
+              "width": 33.193686105947954,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "9e9ce170-1",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 7.6774512081784385,
+              "y": 62.890625,
+              "width": 23.709775789962826,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "9e9ce170-1",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Số thẻ bảo hiểm y tế: GD4600191607476 - 60040"
+              ],
+              "x": 7.6774512081784385,
+              "y": 62.890625,
+              "width": 23.709775789962826,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "61b45865-0",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 87.61326672862454,
+              "y": 61.9140625,
+              "width": 9.258102927509293,
+              "height": 2.734375,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "61b45865-0",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Các bệnh võng mạc khác [H35] (2M: Nhức mắt điều tiết /"
+              ],
+              "x": 87.61326672862454,
+              "y": 61.9140625,
+              "width": 9.258102927509293,
+              "height": 2.734375,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "6b26092b-a",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 10.16133248141264,
+              "y": 59.765625,
+              "width": 47.19374419144982,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "6b26092b-a",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Chẩn đoán:"
+              ],
+              "x": 10.16133248141264,
+              "y": 59.765625,
+              "width": 47.19374419144982,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "de877fc7-4",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 8.129065985130111,
+              "y": 56.8359375,
+              "width": 17.612976301115243,
+              "height": 2.5390625,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "de877fc7-4",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "TD: Bệnh lý đáy mắt); Rối loạn giắc ngủ [G47]; Nhức mắt"
+              ],
+              "x": 8.129065985130111,
+              "y": 56.8359375,
+              "width": 17.612976301115243,
+              "height": 2.5390625,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "3b08436c-e",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 87.3874593401487,
+              "y": 55.46875,
+              "width": 9.48391031598513,
+              "height": 2.734375,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "3b08436c-e",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "[H57.1]"
+              ],
+              "x": 87.3874593401487,
+              "y": 55.46875,
+              "width": 9.48391031598513,
+              "height": 2.734375,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "bde3dacc-3",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 9.935525092936803,
+              "y": 53.3203125,
+              "width": 47.41955157992565,
+              "height": 3.3203125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "bde3dacc-3",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Thuốc điều trị:"
+              ],
+              "x": 9.935525092936803,
+              "y": 53.3203125,
+              "width": 47.41955157992565,
+              "height": 3.3203125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "12a8a68e-1",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 7.4516438197026025,
+              "y": 50.5859375,
+              "width": 20.77427973977695,
+              "height": 2.734375,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "12a8a68e-1",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "10 Viên"
+              ],
+              "x": 7.4516438197026025,
+              "y": 50.5859375,
+              "width": 20.77427973977695,
+              "height": 2.734375,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "b161b71a-b",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 87.16165195167287,
+              "y": 49.21875,
+              "width": 9.48391031598513,
+              "height": 2.734375,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "b161b71a-b",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "1/Paracctamol 650mg (Mypara ER)"
+              ],
+              "x": 87.16165195167287,
+              "y": 49.21875,
+              "width": 9.48391031598513,
+              "height": 2.734375,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "28291618-c",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 9.935525092936803,
+              "y": 47.265625,
+              "width": 47.19374419144982,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "28291618-c",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "ngày Uống 02 Viên; 01: Chiều: 01;"
+              ],
+              "x": 9.935525092936803,
+              "y": 47.265625,
+              "width": 47.19374419144982,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "ffba17ef-6",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 7.4516438197026025,
+              "y": 43.9453125,
+              "width": 40.41952253717472,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "ffba17ef-6",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "20 Viên"
+              ],
+              "x": 7.4516438197026025,
+              "y": 43.9453125,
+              "width": 40.41952253717472,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "5bfc9e77-d",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 87.16165195167287,
+              "y": 42.96875,
+              "width": 9.258102927509293,
+              "height": 2.734375,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "5bfc9e77-d",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "2/Magnesium-B6"
+              ],
+              "x": 87.16165195167287,
+              "y": 42.96875,
+              "width": 9.258102927509293,
+              "height": 2.734375,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "6a83e8bc-f",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 4.290340381040892,
+              "y": 39.6484375,
+              "width": 18.29039846654275,
+              "height": 3.3203125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "6a83e8bc-f",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "ngày Uống 02 Viên; Sáng: 01: Chiều: 01;"
+              ],
+              "x": 4.290340381040892,
+              "y": 39.6484375,
+              "width": 18.29039846654275,
+              "height": 3.3203125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "f6e94779-5",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 21.6775092936803,
+              "y": 36.328125,
+              "width": 10.387139869888475,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "f6e94779-5",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "20 Viên"
+              ],
+              "x": 21.6775092936803,
+              "y": 36.328125,
+              "width": 10.387139869888475,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "3d68a2be-9",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 21.6775092936803,
+              "y": 33.3984375,
+              "width": 64.80672049256506,
+              "height": 2.9296875,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "3d68a2be-9",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "3/Vitamin A-D"
+              ],
+              "x": 21.6775092936803,
+              "y": 33.3984375,
+              "width": 64.80672049256506,
+              "height": 2.9296875,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "48646693-6",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 4.290340381040892,
+              "y": 31.25,
+              "width": 13.096828531598513,
+              "height": 2.5390625,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "48646693-6",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "ngày Uống 02 Viên; 01: Chiều: 01:"
+              ],
+              "x": 4.290340381040892,
+              "y": 31.25,
+              "width": 13.096828531598513,
+              "height": 2.5390625,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "04dbb4b4-b",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 21.225894516728623,
+              "y": 30.46875,
+              "width": 64.35510571561338,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "04dbb4b4-b",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "20 Viên"
+              ],
+              "x": 21.225894516728623,
+              "y": 30.46875,
+              "width": 64.35510571561338,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "ae4d9315-7",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 4.064532992565056,
+              "y": 27.9296875,
+              "width": 55.09700278810409,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "ae4d9315-7",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "4/An Thần Bồ Tâm"
+              ],
+              "x": 4.064532992565056,
+              "y": 27.9296875,
+              "width": 55.09700278810409,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "a26f5516-c",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 65.03252788104089,
+              "y": 26.5625,
+              "width": 29.1291531133829,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "a26f5516-c",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "ngày Uống 02 Viên; Tối: 02;"
+              ],
+              "x": 65.03252788104089,
+              "y": 26.5625,
+              "width": 29.1291531133829,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "1ff387ce-0",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 4.064532992565056,
+              "y": 24.8046875,
+              "width": 42.903403810408925,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "1ff387ce-0",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Cộng khoản: 4"
+              ],
+              "x": 4.064532992565056,
+              "y": 24.8046875,
+              "width": 42.903403810408925,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "2fe79382-7",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 4.064532992565056,
+              "y": 21.6796875,
+              "width": 34.0969156598513,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "2fe79382-7",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Lời dãn: Dùng thuốc theo toa"
+              ],
+              "x": 4.064532992565056,
+              "y": 21.6796875,
+              "width": 34.0969156598513,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "4bcda195-b",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 76.77451208178438,
+              "y": 19.53125,
+              "width": 16.93555413568773,
+              "height": 2.5390625,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "4bcda195-b",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Ngày 12 tháng 12 năm 2017"
+              ],
+              "x": 76.77451208178438,
+              "y": 19.53125,
+              "width": 16.93555413568773,
+              "height": 2.5390625,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "75b39361-1",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 60.516380111524164,
+              "y": 19.53125,
+              "width": 9.48391031598513,
+              "height": 2.5390625,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "75b39361-1",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "Bác sĩ/ Y sĩ khám bệnh"
+              ],
+              "x": 60.516380111524164,
+              "y": 19.53125,
+              "width": 9.48391031598513,
+              "height": 2.5390625,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "50478cc6-2",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 37.93564126394052,
+              "y": 16.9921875,
+              "width": 21.225894516728623,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "50478cc6-2",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "XÁC NHẬN BỆNH NHÂN"
+              ],
+              "x": 37.93564126394052,
+              "y": 16.9921875,
+              "width": 21.225894516728623,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "a9dddebd-b",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 22.12912407063197,
+              "y": 14.0625,
+              "width": 24.1613905669145,
+              "height": 3.125,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "a9dddebd-b",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "(Ký, ghi rõ họ tên)"
+              ],
+              "x": 22.12912407063197,
+              "y": 14.0625,
+              "width": 24.1613905669145,
+              "height": 3.125,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "f240882f-c",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 12.871021143122677,
+              "y": 10.546875,
+              "width": 42.22598164498141,
+              "height": 2.9296875,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "f240882f-c",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "TRUNG TAMY TH TP PHAN THIET"
+              ],
+              "x": 12.871021143122677,
+              "y": 10.546875,
+              "width": 42.22598164498141,
+              "height": 2.9296875,
+              "rotation": 0
+            },
+            "score": 0
+          },
+          {
+            "id": "9e8f5d1b-2",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 21.225894516728623,
+              "y": 7.2265625,
+              "width": 25.742042286245354,
+              "height": 2.734375,
+              "rotation": 0
+            }
+          },
+          {
+            "id": "9e8f5d1b-2",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "text": [
+                "KHOA KHÁS BỘN KIM LIÊN"
+              ],
+              "x": 21.225894516728623,
+              "y": 7.2265625,
+              "width": 25.742042286245354,
+              "height": 2.734375,
+              "rotation": 0
+            },
+            "score": 0
+          }
+        ],
+        "score": 0.0
+      }
+    ]
+  }
+]
